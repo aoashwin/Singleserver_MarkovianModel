@@ -1,6 +1,6 @@
-# EXP : 07
-# Date :
-# <p align="center"> Single seriver infinite capacity - Markovian Model</p>
+## Ex no: 7
+## Date: 15/6/2022
+# <p align="center">Single seriver infinite capacity - Markovian Model</p>
 
 # Aim : 
 To find 
